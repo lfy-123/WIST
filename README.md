@@ -1,8 +1,8 @@
 <br>
-<h1>
-  <img src="figs/wist.png" alt="WIST Logo" width="100" align="left" style="margin-right: 15px;"/>
+<h2>
+  <img src="figs/wist.png" alt="WIST Logo" width="100" align="left" style="padding-right: 20px; border-right: 2px solid #eaecef; margin-right: 20px;"/>
   WIST: Web-Grounded Iterative Self-Play Tree <br> for Domain-Targeted Reasoning Improvement
-</h1><br clear="left"/>
+</h2><br clear="left"/>
 
   <p align="center">
     <a href="https://arxiv.org/abs/2603.22352"><img src="https://img.shields.io/badge/Paper-arXiv:2603.22352-red" alt="arXiv"></a>
