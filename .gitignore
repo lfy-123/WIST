@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints and logs
+logs/
+logs_tensorboard/
+storage/
+outputs/
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specifics
+*.json
+*.jsonl
+*.csv
+.WIST_env
+.vscode/
+.idea/
+.DS_Store
