@@ -1,18 +1,24 @@
-<br>
-<h2>
-  <img src="figs/wist.png" alt="WIST Logo" width="70" align="left" style="padding-right: 20px; border-right: 2px solid #eaecef; margin-right: 20px;"/>
-  WIST: Web-Grounded Iterative Self-Play Tree <br> for Domain-Targeted Reasoning Improvement
-</h2><br clear="left"/>
+<div align="center">
+  <img src="figs/logo.png" alt="WIST Logo" width="400" />
 
-  <p align="center">
-    <a href="https://arxiv.org/abs/2603.22352"><img src="https://img.shields.io/badge/Paper-arXiv:2603.22352-red" alt="arXiv"></a>
-    <a href="https://github.com/lfy-123/WIST/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
+  <h2>
+    Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement
+  </h2>
+
+  <p>
+    <a href="https://arxiv.org/abs/2603.22352">
+      <img src="https://img.shields.io/badge/Paper-arXiv:2603.22352-red" alt="arXiv">
+    </a>
+    <a href="https://github.com/lfy-123/WIST/blob/main/LICENSE">
+      <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
+    </a>
   </p>
 
-<p align="center">
-  <a href="README.md">English</a> | <a href="README_zh.md">简体中文</a>
-</p>
-<hr>
+  <p>
+    <a href="README.md">English</a> | <a href="README_zh.md">简体中文</a>
+  </p>
+</div>
+
 
 <p align="center">
   <img src="figs/diff.png" width="400" alt="Comparison with SPICE and R-Zero"/>
