@@ -24,6 +24,14 @@
   <img src="figs/diff.png" width="400" alt="Comparison with SPICE and R-Zero"/>
 </p>
 
+## 🚀 What's New
+
+- **[2026.04.06]** Our paper has been accepted to the **ACL 2026 Main Conference**. 🔥🔥🔥
+- **[2026.04.04]** The **GitHub repository** is now publicly available.
+- **[2026.03.22]** The paper was released on **arXiv**.
+
+## ✨ Highlights
+
 **WIST** (Web-Grounded Iterative Self-Play Tree) is a domain-targeted reasoning improvement framework built on top of [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF). It fundamentally enhances language model capabilities by combining:
 
 - 🌳 A dynamically expanding **domain tree**
