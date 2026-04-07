@@ -199,3 +199,6 @@ bash examples/scripts/eval/run_opencompass_physics.sh /path/to/trained_model
   year={2026}
 }
 ```
+
+## 🙏 致谢
+我们衷心感谢开源社区，特别是OpenRLHF[https://github.com/OpenRLHF/OpenRLHF]项目，使本工作得以顺利开展。
