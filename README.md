@@ -28,7 +28,7 @@
 
 - **[2026.04.06]** Our paper has been accepted to the **ACL 2026 Main Conference**. 🔥🔥🔥
 - **[2026.04.04]** The **GitHub repository** is now publicly available.
-- **[2026.03.22]** The paper was released on **arXiv**.
+- **[2026.03.22]** The paper was released on **[arXiv](https://arxiv.org/abs/2603.22352)**.
 
 ## ✨ Highlights
 
