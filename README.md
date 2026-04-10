@@ -166,6 +166,9 @@ bash examples/scripts/eval/run_opencompass_medicine.sh /path/to/trained_model
 bash examples/scripts/eval/run_opencompass_physics.sh /path/to/trained_model
 ```
 
+## 🙏 Acknowledgement
+We would like to sincerely thank the open-source community, in particular the [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) project, for making this work possible.
+
 ---
 
 ## 📖 Citation
@@ -181,5 +184,3 @@ If you find this repository helpful in your research, please consider citing the
 }
 ```
 
-## 🙏 Acknowledgement
-We would like to sincerely thank the open-source community, in particular the [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) project, for making this work possible.
