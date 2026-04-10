@@ -33,7 +33,6 @@
 - **[2026.03.22]** 论文已在**[arXiv](https://arxiv.org/abs/2603.22352)**发布。
 
 ## ✨ 突出亮点
-~~~
 
 **WIST** (Web-Grounded Iterative Self-Play Tree) 是一个建立在 [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) 之上的领域定向推理能力提升框架。它通过整合以下四项机制，从根本上增强了语言模型的能力：
 
